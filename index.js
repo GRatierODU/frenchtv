@@ -146,6 +146,5 @@ builder.defineStreamHandler(async ({ type, id }) => {
 
 const addonInterface = builder.getInterface();
 
-const { serveHTTP } = require('stremio-addon-sdk');
 serveHTTP(addonInterface, { port: process.env.PORT || 7000 });
 console.log('Addon server running on port 7000');
