@@ -121,7 +121,7 @@ builder.defineMetaHandler(async ({ type, id }) => {
         name: ch.name,
         poster: ch.tvg_logo,
         genres: ch.group ? [ch.group] : [],
-        description: 'IPTV Channel from M3U playlist',
+        description: 'TV Channel',
       },
     };
   }
@@ -145,4 +145,7 @@ builder.defineStreamHandler(async ({ type, id }) => {
 });
 
 const addonInterface = builder.getInterface();
-module.exports = addonInterface.handler;
+
+const { serveHTTP } = require('stremio-addon-sdk');
+serveHTTP(addonInterface, { port: process.env.PORT || 7000 });
+console.log('Addon server running on port 7000');
