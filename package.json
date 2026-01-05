@@ -1,18 +1,16 @@
 {
-  "name": "frenchtv",
+  "name": "french-tv-stremio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "axios": "^1.13.2",
-    "stremio-addon-sdk": "^1.6.10",
+    "stremio-addon-sdk": "^1.6.9",
+    "axios": "^1.7.2",
     "xml2js": "^0.6.2"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
