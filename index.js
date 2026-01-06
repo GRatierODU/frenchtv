@@ -13,7 +13,7 @@ https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TNT",France 5
 http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static.epg.best/fr/M6.fr.png"" group-title="TNT",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="TNT",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="TNT",Arte
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
@@ -51,17 +51,17 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="TNT",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:-1 tvg-id="[BeinSport1.fr](http://BeinSport1.fr)" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1" group-title="Sports",BeIn Sports 1
+#EXTINF:-1 tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1" group-title="Sports",BeIn Sports 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
-#EXTINF:-1 tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2" group-title="Sports",BeIn Sports 2
+#EXTINF:-1 tvg-id="BeinSport2.fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2" group-title="Sports",BeIn Sports 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=ts
-#EXTINF:-1 tvg-id="[BeinSport3.fr](http://BeinSport3.fr)" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3" group-title="Sports",BeIn Sports 3
+#EXTINF:-1 tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3" group-title="Sports",BeIn Sports 3
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=ts
-#EXTINF:-1 tvg-id="[RMCSport1.fr](http://RMCSport1.fr)" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1" group-title="Sports",RMC Sport 1
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1" group-title="Sports",RMC Sport 1
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
-#EXTINF:-1 tvg-id="[RMCSport2.fr](http://RMCSport2.fr)" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2" group-title="Sports",RMC Sport 2
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2" group-title="Sports",RMC Sport 2
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=ts
-#EXTINF:-1 tvg-id="[InfosportPlus.fr](http://InfosportPlus.fr)" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+" group-title="Sports",Infosport+
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+" group-title="Sports",Infosport+
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
 `.trim();
 
