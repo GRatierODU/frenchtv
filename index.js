@@ -15,7 +15,7 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://static.epg.best/fr/M6.fr.png"" group-title="TNT",M6
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static.epg.best/fr/Arte.fr.png" group-title="TNT",Arte
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static.epg.best/fr/ARTE.fr.png" group-title="TNT",Arte
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-logo="https://static.epg.best/fr/LaChaineParlementaire.fr.png" group-title="TNT",LCP 
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
@@ -31,7 +31,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://static.epg.best/fr/LCI.fr.png" group-title="TNT",LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
-#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://static.epg.best/fr/Franceinfo.fr.png" group-title="TNT",France Info
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="TNT",France Info
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TNT",CStar
 https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
@@ -41,17 +41,17 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/dailymotion/t18.m
 https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://static.epg.best/fr/TF1SeriesFilms.fr.png" group-title="TNT",TF1 Series Films
 https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://static.epg.best/fr/LEquipe.fr.png" group-title="TNT",L'Équipe
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://static.epg.best/mu/LEquipe.mu.png" group-title="TNT",L'Équipe
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TNT",6ter
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" group-title="TNT",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static.epg.best/fr/RMCDecouverte.fr.png" group-title="TNT",RMC Découverte
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rmc-decouverte-fr.png" group-title="TNT",RMC Découverte
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="TNT",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo="https://static.epg.best/fr/RTL9.fr.png" group-title="Mini généralistes",RTL9
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo=""https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rtl9-fr.png"" group-title="Mini généralistes",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-id="[BeinSport1.fr](http://BeinSport1.fr)" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1" group-title="Sports",BeIn Sports 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
