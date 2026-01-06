@@ -51,8 +51,6 @@ https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://static.epg.best/fr/Cherie25.fr.png" group-title="TNT",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-logo=""https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/rtl9-fr.png"" group-title="Mini généralistes",RTL9
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 #EXTINF:-1 tvg-id="[BeinSport1.fr](http://BeinSport1.fr)" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1" group-title="Sports",BeIn Sports 1
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
 #EXTINF:-1 tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2" group-title="Sports",BeIn Sports 2
