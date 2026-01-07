@@ -197,7 +197,7 @@ builder.defineCatalogHandler(async ({ type, id }) => {
 builder.defineMetaHandler(async ({ type, id }) => {
 	const ch = channels.find((ch, index) => `${ch.name.replace(/\s+/g, "-").toLowerCase()}-${index}` === id);
 	if (ch) {
-		let description = "TV Channel - Live streaming";
+		let description = "";
 
 		const epgId = ch["tvg-id"];
 		if (epgId && epgMap[epgId]) {
@@ -211,10 +211,10 @@ builder.defineMetaHandler(async ({ type, id }) => {
 				const filled = Math.round((progress / 100) * barLength);
 				const bar = "█".repeat(filled) + "░".repeat(barLength - filled);
                 const minsLeft = Math.max(0, Math.round((current.end - now) / 60000));
-				description += `\n\nEn cours :\n${current.title}\n |${bar}|\n(${minsLeft} minutes restantes)`;
+				description += `En cours :\n${current.title}\n |${bar}|\n(${minsLeft} minutes restantes)`;
 				if (current.description) description += `\n${current.description}`;
 			} else {
-				description += "\n\nAucun programme en cours.";
+				description += "Aucun programme en cours.";
 			}
 
 			// Add 1-5 upcoming programs
