@@ -29,7 +29,7 @@ https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TNT",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-logo="https://static.epg.best/fr/CNews.fr.png" group-title="TNT",CNews
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews.m3u8
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="LCI - La Chaîne Info.fr" tvg-logo="https://static.epg.best/fr/LCI.fr.png" group-title="TNT",LCI
 https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="TNT",France Info
